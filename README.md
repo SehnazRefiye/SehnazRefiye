@@ -32,6 +32,11 @@
 ![DataGrip](https://img.shields.io/badge/-DataGrip-000000?style=flat&logo=datagrip&logoColor=white)
 ![pgAdmin](https://img.shields.io/badge/-pgAdmin-336791?style=flat&logo=pgadmin&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)  
+![Elastic](https://img.shields.io/badge/-Elastic-005571?style=flat&logo=elasticsearch&logoColor=white)
+![Rancher](https://img.shields.io/badge/-Rancher-7E6C47?style=flat&logo=rancher&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![MinIO](https://img.shields.io/badge/-MinIO-00A4BD?style=flat&logo=minio&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SehnazRefiye&layout=compact)
 
