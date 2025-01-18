@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=SehnazRefiye&color=blue&style=flat-square)  
+
 # Who Am I?
 
 💻 **Software Developer ATEZ Software Technologies Inc.**  
