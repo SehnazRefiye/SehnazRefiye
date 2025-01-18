@@ -47,5 +47,10 @@
 
 
 ## GitHub Contribution Trophy
+
+<div align="center">
+    
 [![trophy](https://github-profile-trophy.vercel.app/?username=SehnazRefiye)](https://github.com/SehnazRefiye)
+
+</div>
 
