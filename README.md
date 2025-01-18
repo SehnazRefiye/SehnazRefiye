@@ -54,3 +54,11 @@
 
 </div>
 
+## Contributions
+
+If you would like to contribute to my projects, please follow the steps below:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes and commit.
+4. Send pull request.
+
